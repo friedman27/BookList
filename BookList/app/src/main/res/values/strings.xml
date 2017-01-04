@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book List</string>
+
+    <!-- Text for the edit text search box [CHAR LIMIT=20] -->
+    <string name="homepage_header">Enter Search Here (ex. author name, book title)</string>
+
+    <!-- Text for the actual search button [CHAR LIMIT=20] -->
+    <string name="search_button">Search</string>
+
+    <!-- Text when there was no tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_no">No</string>
+
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_yes">Yes</string>
+
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_not_available">Not available</string>
+    <string name="book_title">book title</string>
+    <string name="book_author">book author</string>
+    <string name="no_results">No results found, please enter new search terms (ex. author name, book title).</string>
+</resources>
